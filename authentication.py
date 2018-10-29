@@ -29,10 +29,10 @@ class User:
         return "Your login is invalid"
 
     def login_bootcamper(self):
-        print('you are logged in')
+        print('you are logged in as a bootcamper')
     
-    def login_lfa(self):
-        print('you are logged in')
+;    def login_lfa(self):
+        print('you are logged in as an lfa')
 
 
 if __name__ == '__main__':
